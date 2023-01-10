@@ -85,7 +85,4 @@ element.addEventListener("dragstart", handleStart);
 element.addEventListener("dragend", handleEnd);
 
 
-/**
- * @author:konate mamadou
- */
 
